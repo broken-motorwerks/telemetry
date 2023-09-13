@@ -1,0 +1,6 @@
+/.vscode
+/.embuild
+/target
+/Cargo.lock
+src/messages.rs
+can_data_gen/.python-version
